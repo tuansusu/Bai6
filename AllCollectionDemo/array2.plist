@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<date>2013-09-14T11:56:39Z</date>
+	<string>Hello world</string>
+	<real>1.1618</real>
+	<real>9.800000000000001</real>
+</array>
+</plist>
